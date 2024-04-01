@@ -22,14 +22,14 @@ Here are some of my notable projects:
 
 ## My Scientific Production
 
-- ResearchGate: [Your LinkedIn Profile](https://www.researchgate.net/profile/Essodjolo-Kpatcha)
-- Google Scholar: [Your Twitter Profile](https://scholar.google.com/citations?hl=en&user=6vTtgnEAAAAJ)
-- Inspire HEP: [Your Website/Blog](https://inspirehep.net/authors/1919693)
+- ResearchGate: [https://www.researchgate.net/profile/dkpatcha](https://www.researchgate.net/profile/Essodjolo-Kpatcha)
+- Google Scholar: [https://scholar.google.com/ekpatcha](https://scholar.google.com/citations?hl=en&user=6vTtgnEAAAAJ)
+- Inspire HEP: [https://inspirehep.net/authors/1919693](https://inspirehep.net/authors/1919693)
 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/essodjolo-kpatcha/)
+- LinkedIn: [https://www.linkedin.com/in/dkpatcha](https://www.linkedin.com/in/essodjolo-kpatcha/)
 
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. I'd love to connect with fellow analysts, developers and enthusiasts!
