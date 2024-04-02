@@ -1,35 +1,44 @@
-# Welcome to my GitHub Profile! 
+# Welcome to my Donald Kpatcha's GitHub Profile! 
 
 ## About Me
 
-I'm a [Your Role/Title] passionate about [Your Interests or Specialization]. I enjoy [Your Hobbies or Areas of Expertise], and I'm always eager to learn and explore new technologies.
+I'm a Quantitative Analyst passionate about (Credit) Risk Modelling.
+
 
 ## My Projects
 
-### Pinned Repositories
+#### Risk Modelling
 
-Here are some of my notable projects:
+- [Credit risk modeling](https://github.com/ekdonald/Credit-Risk-Modelling.git): Credit risk modeling project, the goal is to explore the feasibility of using machine learning algorithms such as Random Forests, and XGBoost to model and assess risks within a dataset. The primary objective is to investigate whether these algorithms can effectively analyze the data and provide insights into various types of risks.
 
-- [Project 1](link-to-project1): Brief description of Project 1.
+- [Credit Risk Modelling: scorecards](https://github.com/ekdonald/Credit-Risk-with-GLMs-Scorecards.git): Summary of the most important points to consider when developing scorecards; Probability of Default Model Development with Generalized Linear Models. Development of scorecard.
   
-- [Project 2](link-to-project2): Brief description of Project 2.
-- [Project 3](link-to-project3): Brief description of Project 3.
+#### Scientific packages
+
+- [Dark Matter and Reheating Tools](https://github.com/ekdonald/DMandReheatingTools.git): A python package for studying all scenarios of reheating in the early universe with decaying/scattering inflaton and evaporating black hole. Also, allows compute the relic abundance of dark matter produced by the evaporating PBH. Inflaton decays into Standard Model only. 
+
+- [Reheating Tools](https://github.com/ekdonald/ReheatingPyTools.git): A python package providing the solution of the Friedmann - Boltzmann equations for Primordial Black Holes + Inflaton + SM radiation + BSM Models. Allows to study different reheating scenarios in the universe post stochastic inflation and pre radiation domination. 
+
+- [Superpy for munuSSM](https://github.com/ekdonald/Superpy4munuSSM.git): Bayesian Sampling, for exploring regions of susy mathematical models' parameter spaces that are in best agreement with given experimental data. 
 
 
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdonald&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## My Scientific Production
 
 - ResearchGate: [https://www.researchgate.net/profile/dkpatcha](https://www.researchgate.net/profile/Essodjolo-Kpatcha)
+
 - Google Scholar: [https://scholar.google.com/ekpatcha](https://scholar.google.com/citations?hl=en&user=6vTtgnEAAAAJ)
+
 - Inspire HEP: [https://inspirehep.net/authors/1919693](https://inspirehep.net/authors/1919693)
 
 
 ## Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/dkpatcha](https://www.linkedin.com/in/essodjolo-kpatcha/)
+- [LinkedIn:](https://www.linkedin.com/in/essodjolo-kpatcha/)
 
 
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. I'd love to connect with fellow analysts, developers and enthusiasts!
+Thank you for reach out for any questions, suggestions, collaboration, or opportunities.
