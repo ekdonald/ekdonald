@@ -1,4 +1,4 @@
-# Welcome to my Donald Kpatcha's GitHub Profile! 
+# Welcome to my GitHub! 
 
 ## About Me
 
