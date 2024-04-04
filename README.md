@@ -1,8 +1,6 @@
-# Welcome to my GitHub! 
-
 ## About Me
 
-I'm a Quantitative Analyst passionate about (Credit) Risk Modelling.
+I'm a Quantitative Analyst passionate about (Credit) Risk Modelling and Management.
 
 
 ## My Projects
@@ -22,23 +20,18 @@ I'm a Quantitative Analyst passionate about (Credit) Risk Modelling.
 - [Superpy for munuSSM](https://github.com/ekdonald/Superpy4munuSSM.git): Bayesian Sampling, for exploring regions of susy mathematical models' parameter spaces that are in best agreement with given experimental data. 
 
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdonald&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My Scientific Production
 
-- ResearchGate: [https://www.researchgate.net/profile/dkpatcha](https://www.researchgate.net/profile/Essodjolo-Kpatcha)
+- ResearchGate: [Here](https://www.researchgate.net/profile/Essodjolo-Kpatcha)
 
-- Google Scholar: [https://scholar.google.com/ekpatcha](https://scholar.google.com/citations?hl=en&user=6vTtgnEAAAAJ)
+- Google Scholar: [Here](https://scholar.google.com/citations?hl=en&user=6vTtgnEAAAAJ)
 
-- Inspire HEP: [https://inspirehep.net/authors/1919693](https://inspirehep.net/authors/1919693)
+- Inspire HEP: [Here](https://inspirehep.net/authors/1919693)
 
 
 ## Connect with Me
 
-- [LinkedIn:](https://www.linkedin.com/in/essodjolo-kpatcha/)
+- LinkedIn: [Here](https://www.linkedin.com/in/essodjolo-kpatcha/)
 
 
 Thank you for reach out for any questions, suggestions, collaboration, or opportunities.
