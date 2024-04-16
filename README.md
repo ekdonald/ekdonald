@@ -34,4 +34,4 @@ I'm a Quantitative Analyst passionate about (Credit) Risk Modelling and Manageme
 - LinkedIn: [Here](https://www.linkedin.com/in/essodjolo-kpatcha/)
 
 
-Thank you for reach out for any questions, suggestions, collaboration, or opportunities.
+Thank you for reaching out with any questions, suggestions, collaboration, or opportunities.
