@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a Quantitative Analyst passionate about (Credit) Risk Modelling and Management.
+I'm a Quantitative Modelling specialist, passionate about Risk Modelling and Management.
 
 
 ## My Projects
