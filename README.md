@@ -7,6 +7,9 @@ I'm a Quantitative Modelling specialist, passionate about Risk Modelling and Man
 
 #### Risk Modelling and Management Projects
 
+- [Market Risk Management:](https://github.com/ekdonald/Market-Risk-Management.git): Exploring various facets of market risk, including risks associated with equities, bonds, and derivatives. Also, using the probabilistic and statistical measures to quantify market risk and estimate potential losses for investors or portfolio managers: Portfolio Construction, Statistical Analysis (Calculating measures such as volatility, kurtosis, and other relevant statistics), Value at Risk and Expected Shortfall for different confidence levels to understand potential losses.
+
+
 - [Credit Risk Modelling:](https://github.com/ekdonald/Credit-Risk-with-GLMs-Scorecards.git): Development of scorecards (Forward Looking): Probability of Default, Loss Given Default (LGD), Exposure at Default (EAD).
   
 - [Risk modeling](https://github.com/ekdonald/Credit-Risk-Modelling.git): Credit Risk Modelling and Management with Machine Learning (e.g. Random Forests, XGBoost). Analyzing data and providing insights into various types of risks within a dataset..
